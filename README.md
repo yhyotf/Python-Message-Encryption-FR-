@@ -1,0 +1,23 @@
+﻿Dans l'interface graphique, pour l'utilisation des méthodes César et Vigenère,
+veuillez séparer le message et le décalage (pour le césar) ou la clé (pour le Vigenère) d'un slash /.
+
+Exemples :
+
+Avec la méthode césar : pour crypter le texte "NSI" avec un décalage de 4, veuillez entrer "NSI/4"
+
+Avec la méthode Vigenère : pour crypter le texte "Python" avec la clé "NSI", veuillez entrer "Python/NSI"
+
+Cela fonctionne également avec les phrases. 
+
+
+In the GUI, when using the Caesar and Vigenère methods,
+
+separate the message and the offset (for Caesar) or the key (for Vigenère) with a slash /.
+
+Examples:
+
+With the Caesar method: to encrypt the text "NSI" with an offset of 4, enter "NSI/4"
+
+With the Vigenère method: to encrypt the text "Python" with the key "NSI", enter "Python/NSI"
+
+This also works with phrases.

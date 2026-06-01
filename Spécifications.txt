@@ -10,3 +10,14 @@ Avec la méthode Vigenère : pour crypter le texte "Python" avec la clé "NSI", 
 Cela fonctionne également avec les phrases. 
 
 
+In the GUI, when using the Caesar and Vigenère methods,
+
+separate the message and the offset (for Caesar) or the key (for Vigenère) with a slash /.
+
+Examples:
+
+With the Caesar method: to encrypt the text "NSI" with an offset of 4, enter "NSI/4"
+
+With the Vigenère method: to encrypt the text "Python" with the key "NSI", enter "Python/NSI"
+
+This also works with phrases.
